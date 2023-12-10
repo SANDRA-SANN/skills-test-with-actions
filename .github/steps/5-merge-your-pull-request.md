@@ -15,7 +15,6 @@ You can now [merge](https://docs.github.com/get-started/quickstart/github-glossa
 1. Click **Merge pull request**.
 1. Delete the branch `ci` (optional).
 1. _Once you turn on branch protection, Actions can no longer push directly to `main`. You'll need to open the "finish" on your own._
-   
     * Navigate to the `.github` directory.
     * Select the `steps` directory.
     * Open the `X-finish.md` file.
